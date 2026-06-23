@@ -98,5 +98,3 @@ We invest in evals, guardrails, and monitoring as first‑class capabilities so 
 Over the next 18 months, service becomes a key flywheel where every interaction makes Agentforce smarter and our company more efficient. [github](https://github.com/coachmanjeet/ai-product-startegy/blob/main/06-the-pitch/roadmap.md)
 
 ***
-
-If you tell me a bit more about target segment (e.g., “Salesforce Service Cloud customers” vs “internal service org”), I can tighten the wording and metrics for that audience.
